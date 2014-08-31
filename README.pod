@@ -48,6 +48,10 @@ Prints a grid to STDOUT. Requires a hashref of L<Math::Shape::Point> objects.
 
     Math::Shape::Grid::print($points);
 
+=head1 REPOSITORY
+
+L<https://github.com/sillymoose/Math-Shape-Grid.git>
+
 =head1 AUTHOR
 
 David Farrell <sillymoos@cpan.org>

@@ -94,5 +94,10 @@ sub print {
     1;
 }
 
-
 1;
+
+=head1 REPOSITORY
+
+L<https://github.com/sillymoose/Math-Shape-Grid.git>
+
+=cut
