@@ -7,6 +7,9 @@ use List::Util qw/max min/;
 
 # ABSTRACT: a 2d grid for visualizing Math::Shape::Point objects on the terminal
 
+=for HTML <a href="https://travis-ci.org/sillymoose/Math-Shape-Grid"><img src="https://travis-ci.org/sillymoose/Math-Shape-Grid.svg?branch=master"></a> 
+<a href='https://coveralls.io/r/sillymoose/Math-Shape-Rectangle?branch=master'><img src='https://coveralls.io/repos/sillymoose/Math-Shape-Rectangle/badge.png?branch=master' alt='Coverage Status' /></a>
+
 =head1 SYNOPSIS
 
     my $p1 = Math::Shape::Point->new(1, 1, 0);

@@ -8,7 +8,7 @@ Math::Shape::Grid - a 2d grid for visualizing Math::Shape::Point objects on the 
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 SYNOPSIS
 
@@ -39,6 +39,9 @@ version 0.02
      -4  .  .  .  .  .  .  .  .  .  .  .  .  .  .
      -5  .  .  .  .  .  .  .  .  .  .  .  .  .  .
      y
+
+=for HTML <a href="https://travis-ci.org/sillymoose/Math-Shape-Grid"><img src="https://travis-ci.org/sillymoose/Math-Shape-Grid.svg?branch=master"></a> 
+<a href='https://coveralls.io/r/sillymoose/Math-Shape-Rectangle?branch=master'><img src='https://coveralls.io/repos/sillymoose/Math-Shape-Rectangle/badge.png?branch=master' alt='Coverage Status' /></a>
 
 =head1 FUNCTIONS
 

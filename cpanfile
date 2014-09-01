@@ -4,7 +4,7 @@ requires "strict" => "0";
 requires "warnings" => "0";
 
 on 'test' => sub {
-  requires "Math::Shape::Point" => "0";
+  requires "Math::Shape::Point" => "1.05";
   requires "Test::More" => "0";
 };
 

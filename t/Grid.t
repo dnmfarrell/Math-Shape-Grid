@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 use Test::More;
-use Math::Shape::Point;
+use Math::Shape::Point 1.05;
 
 BEGIN { use_ok 'Math::Shape::Grid' };
 
